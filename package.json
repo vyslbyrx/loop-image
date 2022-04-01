@@ -1,0 +1,21 @@
+{
+  "name": "loop-image",
+  "version": "1.0.0",
+  "description": "Loop loop :)",
+  "main": "assets/js/loop-image.js",
+  "keywords": [
+    "loop",
+    "loop",
+    "image",
+    "pure js",
+    "slider",
+    "basic slider image"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vyslbyrx/loop-image.git"
+  },
+  "author": {
+    "name": "Veysel BAYAR"
+  }
+}
